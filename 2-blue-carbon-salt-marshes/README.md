@@ -2,7 +2,7 @@
 
 **Question:** which plant species and plant parts store the most carbon and nitrogen, and does biomass matter?
 
-**Data:** 14 aggregated observations from four species (*Halimione*, *Spartina*, *Salicornia halimione*, *Juncus maritimus*), each split into aboveground, dead litter and roots. Data come from a third-party doctoral research project.
+**Data:** 14 plants from four species (*Halimione*, *Spartina*, *Salicornia halimione*, *Juncus maritimus*), each measured in three parts (aboveground, dead litter, roots), giving 42 measurements. Totals per plant (n = 14) were used for the species comparisons; all 42 measurements were used for the analysis by plant part and the biomass regressions. Data come from a third-party doctoral research project. Not included.
 
 **Methods:** descriptive statistics, simple linear regression (biomass vs storage), Pearson and Spearman correlation, one-way ANOVA with Tukey post hoc, Kruskal-Wallis with Dunn post hoc (Benjamini-Hochberg adjustment), Shapiro-Wilk and Levene tests (α = 5%).
 
